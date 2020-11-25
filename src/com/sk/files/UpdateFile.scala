@@ -7,8 +7,8 @@ import scala.io.Source
 
 object UpdateFile {
   def main(args: Array[String]): Unit = {
-      val iter =  Source.fromFile("D:\\BaiduNetdiskDownload\\3D-MIMO\\3D-MIMO-Data\\三地市3D-MIMO-小区及邻区列表筛选.csv").getLines()
-      val pw = new PrintWriter("D:\\三地市3D-MIMO-ID-经纬度扩大后-小区及邻区列表筛选.csv")
+      val iter =  Source.fromFile("D:筛选.csv").getLines()
+      val pw = new PrintWriter("D:\\筛选.csv")
 
       while(iter.hasNext){
         val str = iter.next()

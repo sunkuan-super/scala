@@ -1,4 +1,4 @@
-package com.aspire.scala.array
+package com.sk.scala.array
 
 object ArrayMethod {
   def main(args: Array[String]): Unit = {

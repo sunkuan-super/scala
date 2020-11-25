@@ -1,6 +1,5 @@
 package com.sk.files
 
-import java.io.PrintStream
 
 import scala.io.Source
 

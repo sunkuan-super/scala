@@ -1,4 +1,5 @@
-package com.aspire.scala.array
+package com.sk.scala.array
+
 import scala.collection.mutable.ArrayBuffer
 object ArrayBufferDemo {
   def main(args: Array[String]): Unit = {

@@ -1,4 +1,4 @@
-package com.aspire.scala.function
+package com.sk.scala.function
 
 import scala.io.Source
 

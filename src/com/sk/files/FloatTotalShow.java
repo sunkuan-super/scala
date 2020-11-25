@@ -1,6 +1,5 @@
 package com.sk.files;
 
-import java.text.NumberFormat;
 
 public class FloatTotalShow {
     public static void main(String[] args) {

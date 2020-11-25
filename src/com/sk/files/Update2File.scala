@@ -1,6 +1,5 @@
 package com.sk.files
 
-import java.io.PrintWriter
 
 import scala.io.Source
 

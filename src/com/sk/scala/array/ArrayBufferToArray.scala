@@ -1,4 +1,4 @@
-package com.aspire.scala.array
+package com.sk.scala.array
 
 import scala.collection.mutable
 import scala.collection.mutable.ArrayBuffer
